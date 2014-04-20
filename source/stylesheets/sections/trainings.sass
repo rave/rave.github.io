@@ -1,0 +1,67 @@
+.trainings-left
+  width: 40%
+  float: left
+
+.trainings-right
+  width: 60%
+  float: right
+
+.training-link
+  display: block
+  text-align: center
+  text-decoration: none
+  .inner
+    position: relative
+    img
+      display: block
+      margin: 0 auto
+    &:after
+      content: ""
+      display: block
+      width: 135px
+      height: 135px
+      background: rgba(0, 0, 0, 0) url("../images/trainings/arrows.png") center center no-repeat
+      border-radius: 50%
+      position: absolute
+      top: 0
+      left: 50%
+      margin-left: -67.5px
+      opacity: 0
+      transition: All 0.5s ease
+      -moz-transition: All 0.5s ease
+      -webkit-transition: All 0.5s ease
+      -o-transition: All 0.5s ease
+  &:hover
+    .training-title
+      color: #E87E2A
+    .inner:after
+      opacity: 1
+      background-color: rgba(0, 0, 0, 0.4)
+
+  .training-title
+    text-align: center
+    margin: 10px 0 30px
+    color: #484848
+    text-decoration: none
+    transition: All 0.5s ease
+    -moz-transition: All 0.5s ease
+    -webkit-transition: All 0.5s ease
+    -o-transition: All 0.5s ease
+
+.trainings-1
+  background-image: image-url("bg/training-1.jpg")
+
+.trainings-2
+  background-image: image-url("bg/training-2.jpg")
+
+.trainings-3
+  background-image: image-url("bg/training-1.jpg")
+
+.trainings-4
+  background-image: image-url("bg/training-4.jpg")
+
+.trainings-kids
+  background-image: image-url("bg/training-5.jpg")
+
+.trainings-5
+  background-image: image-url("bg/training-6.jpg")
