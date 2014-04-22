@@ -435,7 +435,7 @@ table {
   text-align: center; }
 
 @font-face {
-  font-family: "Minion";
+  font-family: "Minion Pro";
   src: url("/fonts/MinionPro-Regular.eot");
   src: local("☺"), url("/fonts/MinionPro-Regular.woff") format("woff"), url("/fonts/MinionPro-Regular.ttf") format("truetype"), url("/fonts/MinionPro-Regular.svg") format("svg");
   font-weight: normal;
@@ -447,85 +447,86 @@ html {
 
 /* line 12, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 body {
-  font-family: "Minion", Verdana, Geneva, sans-serif;
+  font: 15px "Minion Pro", sans-serif;
   font-size: 18px;
   line-height: 1.321em;
   color: #555555; }
 
 /* line 18, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 h1, h2, h3, h4, h5, h6 {
-  margin: 0; }
+  margin: 0;
+  font-weight: normal; }
 
-/* line 21, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+/* line 22, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 h1 {
   font-size: 50px;
   line-height: 1.13em;
   color: #484848; }
   @media only screen and (max-width: 979px) {
-    /* line 21, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+    /* line 22, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
     h1 {
       font-size: 35px; } }
   @media only screen and (max-width: 579px) {
-    /* line 21, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+    /* line 22, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
     h1 {
       font-size: 18px;
       line-height: 1em; } }
 
-/* line 31, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+/* line 32, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 h2 {
   font-size: 35px;
   line-height: 1em;
   color: #484848; }
   @media only screen and (max-width: 979px) {
-    /* line 31, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+    /* line 32, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
     h2 {
       font-size: 20px; } }
   @media only screen and (max-width: 579px) {
-    /* line 31, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+    /* line 32, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
     h2 {
       font-size: 16px;
       line-height: 1em; } }
 
-/* line 41, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+/* line 42, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 h3 {
   font-size: 1.5rem; }
 
-/* line 44, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+/* line 45, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 h4 {
   font-size: 1.125rem;
   line-height: 2rem; }
 
-/* line 48, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+/* line 49, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 h5 {
   font-size: 1rem;
   line-height: 1rem; }
 
-/* line 52, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+/* line 53, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 h6 {
   font-size: 0.8125rem;
   text-transform: uppercase;
   line-height: 1rem; }
 
-/* line 57, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+/* line 58, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 p {
   margin: 0 0 1rem 0; }
 
-/* line 60, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+/* line 61, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 strong {
   font-weight: 700; }
 
-/* line 63, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+/* line 64, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 small {
   font-size: 0.75rem; }
 
-/* line 66, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+/* line 67, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 a {
   color: #e87e2a; }
-  /* line 68, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+  /* line 69, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
   a:hover {
     color: #cb6228; }
 
-/* line 71, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
+/* line 72, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/_typography.sass */
 ul, ol {
   margin-left: 1.5rem;
   padding-left: 0; }
@@ -838,55 +839,52 @@ html, body {
     margin-top: 70px; }
   @media only screen and (max-width: 979px) {
     /* line 30, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
-    .page-trainings .logo {
-      display: none; }
-    /* line 32, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
     .page-trainings .trainings-left {
       text-align: center;
       margin-bottom: 40px; }
-      /* line 35, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+      /* line 33, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
       .page-trainings .trainings-left h1 {
         margin-bottom: 0; }
-    /* line 37, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+    /* line 35, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
     .page-trainings .trainings-left, .page-trainings .trainings-right {
       margin-top: 0;
       width: 100%;
       float: none; } }
 
-/* line 43, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 41, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .page-coaches {
   background-image: url("/images/bg/video.jpg"); }
 
-/* line 46, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 44, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .page-clients {
   background-image: url("/images/bg/clients.jpg"); }
   @media only screen and (max-width: 979px) {
-    /* line 49, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
-    .page-clients .logo, .page-clients .clients-left {
+    /* line 47, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+    .page-clients .clients-left {
       display: none; } }
 
-/* line 53, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 51, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .page-history {
   background-image: url("/images/bg/history.jpg"); }
   @media only screen and (max-width: 767px) {
-    /* line 56, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+    /* line 54, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
     .page-history .col1of2 {
       width: 100%;
       float: none; } }
 
-/* line 60, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 58, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .page-contacts {
   background-image: url("/images/bg/contacts.jpg"); }
 
-/* line 63, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 61, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .about-inner {
   background-image: url("/images/bg/about-1.jpg"); }
 
-/* line 66, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 64, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .page-about .controlArrow {
   display: none !important; }
 
-/* line 69, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 67, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .wrapper {
   width: 900px;
   *zoom: 1;
@@ -901,15 +899,15 @@ html, body {
     clear: both;
     visibility: hidden; }
   @media only screen and (max-width: 979px) {
-    /* line 69, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+    /* line 67, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
     .wrapper {
       width: 740px; } }
   @media only screen and (max-width: 767px) {
-    /* line 69, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+    /* line 67, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
     .wrapper {
       width: 540px; } }
   @media only screen and (max-width: 579px) {
-    /* line 69, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+    /* line 67, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
     .wrapper {
       width: 100%;
       -webkit-box-sizing: border-box;
@@ -917,23 +915,23 @@ html, body {
       box-sizing: border-box;
       padding-left: 20px;
       padding-right: 20px; } }
-  /* line 82, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 80, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   .wrapper.wide {
     width: 1100px; }
     @media only screen and (max-width: 1199px) {
-      /* line 82, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+      /* line 80, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
       .wrapper.wide {
         width: 900px; } }
     @media only screen and (max-width: 979px) {
-      /* line 82, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+      /* line 80, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
       .wrapper.wide {
         width: 740px; } }
     @media only screen and (max-width: 767px) {
-      /* line 82, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+      /* line 80, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
       .wrapper.wide {
         width: 540px; } }
     @media only screen and (max-width: 579px) {
-      /* line 82, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+      /* line 80, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
       .wrapper.wide {
         width: 100%;
         -webkit-box-sizing: border-box;
@@ -941,78 +939,78 @@ html, body {
         box-sizing: border-box;
         padding-left: 20px;
         padding-right: 20px; } }
-  /* line 95, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 93, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   .wrapper.video-block {
     width: 680px; }
-    /* line 97, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+    /* line 95, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
     .wrapper.video-block .sub-inner {
       padding: 20px; }
 
-/* line 100, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 98, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .sub-inner {
   background: rgba(255, 255, 255, 0.7);
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   padding: 20px 40px; }
-  /* line 104, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 102, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   .sub-inner h1 {
     font-size: 40px;
     color: #b22b25; }
     @media only screen and (max-width: 767px) {
-      /* line 104, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+      /* line 102, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
       .sub-inner h1 {
         font-size: 30px; } }
     @media only screen and (max-width: 579px) {
-      /* line 104, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+      /* line 102, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
       .sub-inner h1 {
         font-size: 18px;
         line-height: 1em; } }
-  /* line 112, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 110, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   .sub-inner h2 {
     font-size: 45px;
     color: #b22b25; }
     @media only screen and (max-width: 979px) {
-      /* line 112, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+      /* line 110, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
       .sub-inner h2 {
         font-size: 25px; } }
     @media only screen and (max-width: 579px) {
-      /* line 112, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+      /* line 110, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
       .sub-inner h2 {
         font-size: 16px;
         line-height: 1em; } }
-  /* line 120, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 118, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   .sub-inner p, .sub-inner ul.dotted {
     color: #222222;
     font-size: 18px;
     margin-bottom: 0; }
     @media only screen and (max-width: 979px) {
-      /* line 120, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+      /* line 118, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
       .sub-inner p, .sub-inner ul.dotted {
         font-size: 16px;
         line-height: 1em; } }
-    /* line 127, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+    /* line 125, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
     .sub-inner p.mbm, .sub-inner p.mvm, .sub-inner ul.dotted.mbm, .sub-inner ul.dotted.mvm {
       margin-bottom: 10px; }
-  /* line 129, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 127, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   .sub-inner a {
     text-decoration: none;
     color: #b22b25; }
-    /* line 132, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+    /* line 130, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
     .sub-inner a:hover {
       color: #e87e2a; }
-    /* line 134, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+    /* line 132, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
     .sub-inner a.button, .sub-inner a.button:hover {
       color: white; }
 
-/* line 137, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 135, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .video-block {
   width: 640px;
   height: 480px;
   margin-left: auto;
   margin-right: auto; }
 
-/* line 142, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 140, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .logo {
   display: block;
   position: absolute;
@@ -1020,21 +1018,21 @@ html, body {
   margin-left: -73px;
   top: 2%; }
   @media only screen and (max-width: 579px) {
-    /* line 142, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+    /* line 140, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
     .logo {
       display: none; } }
 
-/* line 151, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 149, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .page-video .logo {
   transform: scale(0.7);
   top: 0; }
 
-/* line 155, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 153, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 ul.dotted {
   list-style: disc;
   margin: 10px 0 10px 20px; }
 
-/* line 159, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 157, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .controlArrow {
   width: 39px !important;
   height: 72px !important;
@@ -1044,26 +1042,26 @@ ul.dotted {
   transition: All 0.5s ease;
   border: none;
   margin-top: -36px; }
-  /* line 166, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 164, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   .controlArrow:hover {
     opacity: 1; }
-  /* line 168, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 166, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   .controlArrow.prev {
     background: url("/images/arrow-left.png") no-repeat; }
-  /* line 170, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 168, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   .controlArrow.next {
     background: url("/images/arrow-right.png") no-repeat; }
 
-/* line 173, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 171, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .page-history .wrapper {
   position: relative;
   z-index: 2;
   color: white; }
-  /* line 177, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 175, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   .page-history .wrapper h2, .page-history .wrapper .subtitle {
     color: white; }
 
-/* line 180, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 178, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .content-sub-bg {
   width: 100%;
   height: 100%;
@@ -1079,46 +1077,46 @@ ul.dotted {
   -o-animation: fading 15s infinite; }
 
 @-webkit-keyframes fading {
-  /* line 195, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 193, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   0%, 100% {
     opacity: 0; }
 
-  /* line 197, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 195, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   50% {
     opacity: 1; } }
 
 @-moz-keyframes fading {
-  /* line 201, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 199, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   0%, 100% {
     opacity: 0; }
 
-  /* line 203, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 201, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   50% {
     opacity: 1; } }
 
 @-ms-keyframes fading {
-  /* line 207, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 205, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   0%, 100% {
     opacity: 0; }
 
-  /* line 209, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 207, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   50% {
     opacity: 1; } }
 
 @-o-keyframes fading {
-  /* line 213, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 211, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   0%, 100% {
     opacity: 0; }
 
-  /* line 215, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 213, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   50% {
     opacity: 1; } }
 
-/* line 218, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+/* line 216, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
 .subtitle {
   color: #787777;
   font-size: 18px; }
-  /* line 221, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
+  /* line 219, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/_pages.sass */
   .subtitle.bigger {
     font-size: 22.53px; }
 
@@ -1359,7 +1357,7 @@ ul.dotted {
   width: 100%;
   position: absolute;
   top: 50%;
-  margin-top: -170px;
+  margin-top: -233px;
   left: 0;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -1372,52 +1370,50 @@ ul.dotted {
   @media only screen and (max-width: 979px) {
     /* line 1, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
     .logos-block {
-      padding-left: 75px;
-      margin-top: 0;
-      top: 15px; } }
-  /* line 15, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+      padding-left: 75px; } }
+  /* line 13, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
   .logos-block.logos-1 {
     left: 0; }
-  /* line 17, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+  /* line 15, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
   .logos-block.logos-2 {
     left: 100%; }
-  /* line 19, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+  /* line 17, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
   .logos-block.logos-3 {
     left: 200%; }
-  /* line 21, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+  /* line 19, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
   .logos-block.logos-4 {
     left: 300%; }
 
-/* line 24, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 22, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .logos-container {
   position: relative;
   height: 100%;
   overflow: hidden; }
-  /* line 28, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+  /* line 26, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
   .logos-container > .wrapper .clients-left {
     position: absolute;
     top: 50%;
     margin-top: -100px; }
 
-/* line 34, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 32, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .clients-left {
   width: 40%;
   float: left; }
 
-/* line 38, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 36, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .client {
   width: 33%;
   float: left;
   text-align: center;
   height: 160px;
   position: relative; }
-  /* line 44, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+  /* line 42, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
   .client img {
     max-width: 150px;
     display: block;
     margin: 0 auto 20px; }
 
-/* line 49, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 47, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .arrow-right-dark {
   position: absolute;
   width: 39px;
@@ -1431,11 +1427,11 @@ ul.dotted {
   -o-transition: All 0.5s ease;
   transition: All 0.5s ease;
   z-index: 3; }
-  /* line 60, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+  /* line 58, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
   .arrow-right-dark:hover {
     opacity: 1; }
 
-/* line 63, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 61, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .arrow-left-dark {
   position: absolute;
   width: 39px;
@@ -1450,63 +1446,63 @@ ul.dotted {
   -o-transition: All 0.5s ease;
   transition: All 0.5s ease;
   z-index: 3; }
-  /* line 75, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+  /* line 73, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
   .arrow-left-dark:hover {
     opacity: 1; }
   @media only screen and (max-width: 979px) {
-    /* line 63, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+    /* line 61, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
     .arrow-left-dark {
       left: 15px;
       margin-left: 0; } }
 
-/* line 81, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 79, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-1 {
   background-image: url("/images/bg/clients/ukrinbank.jpg"); }
 
-/* line 84, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 82, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-2 {
   background-image: url("/images/bg/clients/alawar.jpg"); }
 
-/* line 87, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 85, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-3 {
   background-image: url("/images/bg/clients/i-store.jpg"); }
 
-/* line 90, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 88, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-4 {
   background-image: url("/images/bg/clients/alawar.jpg"); }
 
-/* line 93, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 91, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-5 {
   background-image: url("/images/bg/clients/yug-contract.jpg"); }
 
-/* line 96, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 94, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-6 {
   background-image: url("/images/bg/clients/univer.jpg"); }
 
-/* line 99, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 97, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-7 {
   background-image: url("/images/bg/clients/prodigi.jpg"); }
 
-/* line 102, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 100, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-8 {
   background-image: url("/images/bg/clients/tespro.jpg"); }
 
-/* line 105, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 103, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-9 {
   background-image: url("/images/bg/clients/arcelor.jpg"); }
 
-/* line 108, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 106, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-10 {
   background-image: url("/images/bg/clients/carat.jpg"); }
 
-/* line 111, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 109, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-11 {
   background-image: url("/images/bg/clients/alawar.jpg"); }
 
-/* line 114, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 112, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-12 {
   background-image: url("/images/bg/clients/alawar.jpg"); }
 
-/* line 117, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
+/* line 115, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/_clients.sass */
 .feedbacks-13 {
   background-image: url("/images/bg/clients/alawar.jpg"); }
