@@ -8,7 +8,7 @@
   font-weight: normal;
   font-style: normal; }
 
-/* line 12, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 12, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 [class^="icon-"], [class*=" icon-"] {
   font-family: "icomoon";
   speak: none;
@@ -21,1438 +21,1438 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-/* line 26, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 26, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-glass:before {
   content: "\f000"; }
 
-/* line 29, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 29, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-music:before {
   content: "\f001"; }
 
-/* line 32, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 32, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-search:before {
   content: "\f002"; }
 
-/* line 35, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 35, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-envelope-o:before {
   content: "\f003"; }
 
-/* line 38, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 38, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-heart:before {
   content: "\f004"; }
 
-/* line 41, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 41, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-star:before {
   content: "\f005"; }
 
-/* line 44, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 44, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-star-o:before {
   content: "\f006"; }
 
-/* line 47, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 47, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-user:before {
   content: "\f007"; }
 
-/* line 50, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 50, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-film:before {
   content: "\f008"; }
 
-/* line 53, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 53, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-th-large:before {
   content: "\f009"; }
 
-/* line 56, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 56, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-th:before {
   content: "\f00a"; }
 
-/* line 59, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 59, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-th-list:before {
   content: "\f00b"; }
 
-/* line 62, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 62, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-check:before {
   content: "\f00c"; }
 
-/* line 65, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 65, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-times:before {
   content: "\f00d"; }
 
-/* line 68, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 68, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-search-plus:before {
   content: "\f00e"; }
 
-/* line 71, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 71, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-search-minus:before {
   content: "\f010"; }
 
-/* line 74, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 74, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-power-off:before {
   content: "\f011"; }
 
-/* line 77, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 77, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-signal:before {
   content: "\f012"; }
 
-/* line 80, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 80, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-gear:before {
   content: "\f013"; }
 
-/* line 83, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 83, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-trash-o:before {
   content: "\f014"; }
 
-/* line 86, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 86, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-home:before {
   content: "\f015"; }
 
-/* line 89, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 89, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-file-o:before {
   content: "\f016"; }
 
-/* line 92, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 92, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-clock-o:before {
   content: "\f017"; }
 
-/* line 95, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 95, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-road:before {
   content: "\f018"; }
 
-/* line 98, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 98, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-download:before {
   content: "\f019"; }
 
-/* line 101, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 101, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrow-circle-o-down:before {
   content: "\f01a"; }
 
-/* line 104, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 104, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrow-circle-o-up:before {
   content: "\f01b"; }
 
-/* line 107, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 107, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-inbox:before {
   content: "\f01c"; }
 
-/* line 110, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 110, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-play-circle-o:before {
   content: "\f01d"; }
 
-/* line 113, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 113, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-rotate-right:before {
   content: "\f01e"; }
 
-/* line 116, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 116, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-refresh:before {
   content: "\f021"; }
 
-/* line 119, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 119, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-list-alt:before {
   content: "\f022"; }
 
-/* line 122, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 122, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-lock:before {
   content: "\f023"; }
 
-/* line 125, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 125, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-flag:before {
   content: "\f024"; }
 
-/* line 128, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 128, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-headphones:before {
   content: "\f025"; }
 
-/* line 131, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 131, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-volume-off:before {
   content: "\f026"; }
 
-/* line 134, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 134, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-volume-down:before {
   content: "\f027"; }
 
-/* line 137, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 137, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-volume-up:before {
   content: "\f028"; }
 
-/* line 140, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 140, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-qrcode:before {
   content: "\f029"; }
 
-/* line 143, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 143, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-barcode:before {
   content: "\f02a"; }
 
-/* line 146, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 146, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-tag:before {
   content: "\f02b"; }
 
-/* line 149, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 149, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-tags:before {
   content: "\f02c"; }
 
-/* line 152, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 152, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-book:before {
   content: "\f02d"; }
 
-/* line 155, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 155, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bookmark:before {
   content: "\f02e"; }
 
-/* line 158, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 158, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-print:before {
   content: "\f02f"; }
 
-/* line 161, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 161, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-camera:before {
   content: "\f030"; }
 
-/* line 164, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 164, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-font:before {
   content: "\f031"; }
 
-/* line 167, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 167, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bold:before {
   content: "\f032"; }
 
-/* line 170, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 170, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-italic:before {
   content: "\f033"; }
 
-/* line 173, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 173, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-text-height:before {
   content: "\f034"; }
 
-/* line 176, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 176, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-text-width:before {
   content: "\f035"; }
 
-/* line 179, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 179, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-align-left:before {
   content: "\f036"; }
 
-/* line 182, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 182, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-align-center:before {
   content: "\f037"; }
 
-/* line 185, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 185, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-align-right:before {
   content: "\f038"; }
 
-/* line 188, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 188, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-align-justify:before {
   content: "\f039"; }
 
-/* line 191, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 191, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-list:before {
   content: "\f03a"; }
 
-/* line 194, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 194, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-dedent:before {
   content: "\f03b"; }
 
-/* line 197, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 197, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-indent:before {
   content: "\f03c"; }
 
-/* line 200, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 200, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-video-camera:before {
   content: "\f03d"; }
 
-/* line 203, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 203, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-picture-o:before {
   content: "\f03e"; }
 
-/* line 206, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 206, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-pencil:before {
   content: "\f040"; }
 
-/* line 209, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 209, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-map-marker:before {
   content: "\f041"; }
 
-/* line 212, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 212, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-adjust:before {
   content: "\f042"; }
 
-/* line 215, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 215, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-tint:before {
   content: "\f043"; }
 
-/* line 218, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 218, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-edit:before {
   content: "\f044"; }
 
-/* line 221, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 221, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-share-square-o:before {
   content: "\f045"; }
 
-/* line 224, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 224, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-check-square-o:before {
   content: "\f046"; }
 
-/* line 227, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 227, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrows:before {
   content: "\f047"; }
 
-/* line 230, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 230, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-step-backward:before {
   content: "\f048"; }
 
-/* line 233, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 233, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-fast-backward:before {
   content: "\f049"; }
 
-/* line 236, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 236, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-backward:before {
   content: "\f04a"; }
 
-/* line 239, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 239, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-play:before {
   content: "\f04b"; }
 
-/* line 242, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 242, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-pause:before {
   content: "\f04c"; }
 
-/* line 245, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 245, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-stop:before {
   content: "\f04d"; }
 
-/* line 248, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 248, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-forward:before {
   content: "\f04e"; }
 
-/* line 251, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 251, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-fast-forward:before {
   content: "\f050"; }
 
-/* line 254, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 254, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-step-forward:before {
   content: "\f051"; }
 
-/* line 257, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 257, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-eject:before {
   content: "\f052"; }
 
-/* line 260, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 260, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-chevron-left:before {
   content: "\f053"; }
 
-/* line 263, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 263, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-chevron-right:before {
   content: "\f054"; }
 
-/* line 266, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 266, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-plus-circle:before {
   content: "\f055"; }
 
-/* line 269, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 269, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-minus-circle:before {
   content: "\f056"; }
 
-/* line 272, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 272, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-times-circle:before {
   content: "\f057"; }
 
-/* line 275, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 275, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-check-circle:before {
   content: "\f058"; }
 
-/* line 278, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 278, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-question-circle:before {
   content: "\f059"; }
 
-/* line 281, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 281, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-info-circle:before {
   content: "\f05a"; }
 
-/* line 284, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 284, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-crosshairs:before {
   content: "\f05b"; }
 
-/* line 287, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 287, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-times-circle-o:before {
   content: "\f05c"; }
 
-/* line 290, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 290, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-check-circle-o:before {
   content: "\f05d"; }
 
-/* line 293, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 293, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-ban:before {
   content: "\f05e"; }
 
-/* line 296, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 296, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrow-left:before {
   content: "\f060"; }
 
-/* line 299, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 299, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrow-right:before {
   content: "\f061"; }
 
-/* line 302, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 302, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrow-up:before {
   content: "\f062"; }
 
-/* line 305, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 305, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrow-down:before {
   content: "\f063"; }
 
-/* line 308, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 308, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-mail-forward:before {
   content: "\f064"; }
 
-/* line 311, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 311, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-expand:before {
   content: "\f065"; }
 
-/* line 314, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 314, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-compress:before {
   content: "\f066"; }
 
-/* line 317, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 317, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-plus:before {
   content: "\f067"; }
 
-/* line 320, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 320, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-minus:before {
   content: "\f068"; }
 
-/* line 323, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 323, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-asterisk:before {
   content: "\f069"; }
 
-/* line 326, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 326, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-exclamation-circle:before {
   content: "\f06a"; }
 
-/* line 329, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 329, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-gift:before {
   content: "\f06b"; }
 
-/* line 332, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 332, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-leaf:before {
   content: "\f06c"; }
 
-/* line 335, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 335, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-fire:before {
   content: "\f06d"; }
 
-/* line 338, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 338, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-eye:before {
   content: "\f06e"; }
 
-/* line 341, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 341, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-eye-slash:before {
   content: "\f070"; }
 
-/* line 344, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 344, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-warning:before {
   content: "\f071"; }
 
-/* line 347, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 347, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-plane:before {
   content: "\f072"; }
 
-/* line 350, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 350, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-calendar:before {
   content: "\f073"; }
 
-/* line 353, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 353, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-random:before {
   content: "\f074"; }
 
-/* line 356, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 356, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-comment:before {
   content: "\f075"; }
 
-/* line 359, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 359, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-magnet:before {
   content: "\f076"; }
 
-/* line 362, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 362, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-chevron-up:before {
   content: "\f077"; }
 
-/* line 365, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 365, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-chevron-down:before {
   content: "\f078"; }
 
-/* line 368, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 368, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-retweet:before {
   content: "\f079"; }
 
-/* line 371, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 371, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-shopping-cart:before {
   content: "\f07a"; }
 
-/* line 374, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 374, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-folder:before {
   content: "\f07b"; }
 
-/* line 377, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 377, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-folder-open:before {
   content: "\f07c"; }
 
-/* line 380, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 380, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrows-v:before {
   content: "\f07d"; }
 
-/* line 383, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 383, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrows-h:before {
   content: "\f07e"; }
 
-/* line 386, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 386, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bar-chart-o:before {
   content: "\f080"; }
 
-/* line 389, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 389, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-camera-retro:before {
   content: "\f083"; }
 
-/* line 392, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 392, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-key:before {
   content: "\f084"; }
 
-/* line 395, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 395, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-gears:before {
   content: "\f085"; }
 
-/* line 398, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 398, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-comments:before {
   content: "\f086"; }
 
-/* line 401, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 401, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-thumbs-o-up:before {
   content: "\f087"; }
 
-/* line 404, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 404, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-thumbs-o-down:before {
   content: "\f088"; }
 
-/* line 407, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 407, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-star-half:before {
   content: "\f089"; }
 
-/* line 410, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 410, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-heart-o:before {
   content: "\f08a"; }
 
-/* line 413, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 413, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-sign-out:before {
   content: "\f08b"; }
 
-/* line 416, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 416, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-linkedin-square:before {
   content: "\f08c"; }
 
-/* line 419, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 419, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-thumb-tack:before {
   content: "\f08d"; }
 
-/* line 422, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 422, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-external-link:before {
   content: "\f08e"; }
 
-/* line 425, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 425, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-sign-in:before {
   content: "\f090"; }
 
-/* line 428, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 428, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-trophy:before {
   content: "\f091"; }
 
-/* line 431, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 431, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-upload:before {
   content: "\f093"; }
 
-/* line 434, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 434, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-lemon-o:before {
   content: "\f094"; }
 
-/* line 437, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 437, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-phone:before {
   content: "\f095"; }
 
-/* line 440, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 440, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-square-o:before {
   content: "\f096"; }
 
-/* line 443, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 443, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bookmark-o:before {
   content: "\f097"; }
 
-/* line 446, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 446, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-phone-square:before {
   content: "\f098"; }
 
-/* line 449, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 449, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-twitter:before {
   content: "\f099"; }
 
-/* line 452, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 452, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-facebook:before {
   content: "\f09a"; }
 
-/* line 455, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 455, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-github:before {
   content: "\f09b"; }
 
-/* line 458, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 458, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-unlock:before {
   content: "\f09c"; }
 
-/* line 461, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 461, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-credit-card:before {
   content: "\f09d"; }
 
-/* line 464, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 464, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-rss:before {
   content: "\f09e"; }
 
-/* line 467, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 467, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-hdd-o:before {
   content: "\f0a0"; }
 
-/* line 470, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 470, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bullhorn:before {
   content: "\f0a1"; }
 
-/* line 473, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 473, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bell:before {
   content: "\f0a2"; }
 
-/* line 476, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 476, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-certificate:before {
   content: "\f0a3"; }
 
-/* line 479, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 479, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-hand-o-right:before {
   content: "\f0a4"; }
 
-/* line 482, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 482, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-hand-o-left:before {
   content: "\f0a5"; }
 
-/* line 485, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 485, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-hand-o-up:before {
   content: "\f0a6"; }
 
-/* line 488, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 488, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-hand-o-down:before {
   content: "\f0a7"; }
 
-/* line 491, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 491, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrow-circle-left:before {
   content: "\f0a8"; }
 
-/* line 494, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 494, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrow-circle-right:before {
   content: "\f0a9"; }
 
-/* line 497, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 497, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrow-circle-up:before {
   content: "\f0aa"; }
 
-/* line 500, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 500, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrow-circle-down:before {
   content: "\f0ab"; }
 
-/* line 503, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 503, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-globe:before {
   content: "\f0ac"; }
 
-/* line 506, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 506, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-wrench:before {
   content: "\f0ad"; }
 
-/* line 509, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 509, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-tasks:before {
   content: "\f0ae"; }
 
-/* line 512, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 512, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-filter:before {
   content: "\f0b0"; }
 
-/* line 515, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 515, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-briefcase:before {
   content: "\f0b1"; }
 
-/* line 518, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 518, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrows-alt:before {
   content: "\f0b2"; }
 
-/* line 521, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 521, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-group:before {
   content: "\f0c0"; }
 
-/* line 524, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 524, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-chain:before {
   content: "\f0c1"; }
 
-/* line 527, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 527, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-cloud:before {
   content: "\f0c2"; }
 
-/* line 530, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 530, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-flask:before {
   content: "\f0c3"; }
 
-/* line 533, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 533, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-cut:before {
   content: "\f0c4"; }
 
-/* line 536, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 536, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-copy:before {
   content: "\f0c5"; }
 
-/* line 539, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 539, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-paperclip:before {
   content: "\f0c6"; }
 
-/* line 542, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 542, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-save:before {
   content: "\f0c7"; }
 
-/* line 545, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 545, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-square:before {
   content: "\f0c8"; }
 
-/* line 548, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 548, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bars:before {
   content: "\f0c9"; }
 
-/* line 551, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 551, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-list-ul:before {
   content: "\f0ca"; }
 
-/* line 554, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 554, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-list-ol:before {
   content: "\f0cb"; }
 
-/* line 557, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 557, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-strikethrough:before {
   content: "\f0cc"; }
 
-/* line 560, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 560, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-underline:before {
   content: "\f0cd"; }
 
-/* line 563, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 563, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-table:before {
   content: "\f0ce"; }
 
-/* line 566, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 566, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-magic:before {
   content: "\f0d0"; }
 
-/* line 569, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 569, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-truck:before {
   content: "\f0d1"; }
 
-/* line 572, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 572, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-pinterest:before {
   content: "\f0d2"; }
 
-/* line 575, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 575, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-pinterest-square:before {
   content: "\f0d3"; }
 
-/* line 578, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 578, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-google-plus:before {
   content: "\f0d5"; }
 
-/* line 581, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 581, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-money:before {
   content: "\f0d6"; }
 
-/* line 584, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 584, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-caret-down:before {
   content: "\f0d7"; }
 
-/* line 587, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 587, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-caret-up:before {
   content: "\f0d8"; }
 
-/* line 590, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 590, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-caret-left:before {
   content: "\f0d9"; }
 
-/* line 593, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 593, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-caret-right:before {
   content: "\f0da"; }
 
-/* line 596, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 596, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-columns:before {
   content: "\f0db"; }
 
-/* line 599, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 599, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-unsorted:before {
   content: "\f0dc"; }
 
-/* line 602, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 602, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-sort-down:before {
   content: "\f0dd"; }
 
-/* line 605, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 605, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-sort-up:before {
   content: "\f0de"; }
 
-/* line 608, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 608, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-envelope:before {
   content: "\f0e0"; }
 
-/* line 611, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 611, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-linkedin:before {
   content: "\f0e1"; }
 
-/* line 614, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 614, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-rotate-left:before {
   content: "\f0e2"; }
 
-/* line 617, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 617, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-legal:before {
   content: "\f0e3"; }
 
-/* line 620, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 620, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-dashboard:before {
   content: "\f0e4"; }
 
-/* line 623, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 623, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-comment-o:before {
   content: "\f0e5"; }
 
-/* line 626, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 626, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-comments-o:before {
   content: "\f0e6"; }
 
-/* line 629, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 629, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-flash:before {
   content: "\f0e7"; }
 
-/* line 632, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 632, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-sitemap:before {
   content: "\f0e8"; }
 
-/* line 635, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 635, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-umbrella:before {
   content: "\f0e9"; }
 
-/* line 638, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 638, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-paste:before {
   content: "\f0ea"; }
 
-/* line 641, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 641, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-lightbulb-o:before {
   content: "\f0eb"; }
 
-/* line 644, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 644, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-exchange:before {
   content: "\f0ec"; }
 
-/* line 647, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 647, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-cloud-download:before {
   content: "\f0ed"; }
 
-/* line 650, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 650, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-cloud-upload:before {
   content: "\f0ee"; }
 
-/* line 653, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 653, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-user-md:before {
   content: "\f0f0"; }
 
-/* line 656, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 656, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-stethoscope:before {
   content: "\f0f1"; }
 
-/* line 659, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 659, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-suitcase:before {
   content: "\f0f2"; }
 
-/* line 662, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 662, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bell-o:before {
   content: "\f0f3"; }
 
-/* line 665, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 665, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-coffee:before {
   content: "\f0f4"; }
 
-/* line 668, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 668, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-cutlery:before {
   content: "\f0f5"; }
 
-/* line 671, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 671, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-file-text-o:before {
   content: "\f0f6"; }
 
-/* line 674, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 674, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-building-o:before {
   content: "\f0f7"; }
 
-/* line 677, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 677, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-hospital-o:before {
   content: "\f0f8"; }
 
-/* line 680, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 680, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-ambulance:before {
   content: "\f0f9"; }
 
-/* line 683, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 683, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-medkit:before {
   content: "\f0fa"; }
 
-/* line 686, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 686, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-fighter-jet:before {
   content: "\f0fb"; }
 
-/* line 689, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 689, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-beer:before {
   content: "\f0fc"; }
 
-/* line 692, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 692, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-h-square:before {
   content: "\f0fd"; }
 
-/* line 695, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 695, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-plus-square:before {
   content: "\f0fe"; }
 
-/* line 698, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 698, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-angle-double-left:before {
   content: "\f100"; }
 
-/* line 701, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 701, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-angle-double-right:before {
   content: "\f101"; }
 
-/* line 704, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 704, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-angle-double-up:before {
   content: "\f102"; }
 
-/* line 707, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 707, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-angle-double-down:before {
   content: "\f103"; }
 
-/* line 710, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 710, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-angle-left:before {
   content: "\f104"; }
 
-/* line 713, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 713, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-angle-right:before {
   content: "\f105"; }
 
-/* line 716, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 716, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-angle-up:before {
   content: "\f106"; }
 
-/* line 719, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 719, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-angle-down:before {
   content: "\f107"; }
 
-/* line 722, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 722, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-desktop:before {
   content: "\f108"; }
 
-/* line 725, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 725, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-laptop:before {
   content: "\f109"; }
 
-/* line 728, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 728, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-tablet:before {
   content: "\f10a"; }
 
-/* line 731, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 731, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-mobile-phone:before {
   content: "\f10b"; }
 
-/* line 734, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 734, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-circle-o:before {
   content: "\f10c"; }
 
-/* line 737, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 737, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-quote-left:before {
   content: "\f10d"; }
 
-/* line 740, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 740, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-quote-right:before {
   content: "\f10e"; }
 
-/* line 743, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 743, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-spinner:before {
   content: "\f110"; }
 
-/* line 746, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 746, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-circle:before {
   content: "\f111"; }
 
-/* line 749, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 749, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-mail-reply:before {
   content: "\f112"; }
 
-/* line 752, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 752, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-github-alt:before {
   content: "\f113"; }
 
-/* line 755, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 755, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-folder-o:before {
   content: "\f114"; }
 
-/* line 758, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 758, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-folder-open-o:before {
   content: "\f115"; }
 
-/* line 761, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 761, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-smile-o:before {
   content: "\f118"; }
 
-/* line 764, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 764, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-frown-o:before {
   content: "\f119"; }
 
-/* line 767, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 767, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-meh-o:before {
   content: "\f11a"; }
 
-/* line 770, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 770, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-gamepad:before {
   content: "\f11b"; }
 
-/* line 773, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 773, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-keyboard-o:before {
   content: "\f11c"; }
 
-/* line 776, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 776, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-flag-o:before {
   content: "\f11d"; }
 
-/* line 779, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 779, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-flag-checkered:before {
   content: "\f11e"; }
 
-/* line 782, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 782, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-terminal:before {
   content: "\f120"; }
 
-/* line 785, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 785, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-code:before {
   content: "\f121"; }
 
-/* line 788, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 788, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-reply-all:before {
   content: "\f122"; }
 
-/* line 791, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 791, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-star-half-empty:before {
   content: "\f123"; }
 
-/* line 794, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 794, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-location-arrow:before {
   content: "\f124"; }
 
-/* line 797, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 797, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-crop:before {
   content: "\f125"; }
 
-/* line 800, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 800, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-code-fork:before {
   content: "\f126"; }
 
-/* line 803, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 803, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-unlink:before {
   content: "\f127"; }
 
-/* line 806, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 806, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-question:before {
   content: "\f128"; }
 
-/* line 809, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 809, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-info:before {
   content: "\f129"; }
 
-/* line 812, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 812, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-exclamation:before {
   content: "\f12a"; }
 
-/* line 815, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 815, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-superscript:before {
   content: "\f12b"; }
 
-/* line 818, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 818, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-subscript:before {
   content: "\f12c"; }
 
-/* line 821, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 821, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-eraser:before {
   content: "\f12d"; }
 
-/* line 824, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 824, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-puzzle-piece:before {
   content: "\f12e"; }
 
-/* line 827, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 827, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-microphone:before {
   content: "\f130"; }
 
-/* line 830, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 830, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-microphone-slash:before {
   content: "\f131"; }
 
-/* line 833, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 833, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-shield:before {
   content: "\f132"; }
 
-/* line 836, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 836, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-calendar-o:before {
   content: "\f133"; }
 
-/* line 839, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 839, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-fire-extinguisher:before {
   content: "\f134"; }
 
-/* line 842, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 842, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-rocket:before {
   content: "\f135"; }
 
-/* line 845, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 845, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-maxcdn:before {
   content: "\f136"; }
 
-/* line 848, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 848, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-chevron-circle-left:before {
   content: "\f137"; }
 
-/* line 851, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 851, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-chevron-circle-right:before {
   content: "\f138"; }
 
-/* line 854, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 854, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-chevron-circle-up:before {
   content: "\f139"; }
 
-/* line 857, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 857, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-chevron-circle-down:before {
   content: "\f13a"; }
 
-/* line 860, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 860, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-html5:before {
   content: "\f13b"; }
 
-/* line 863, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 863, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-css3:before {
   content: "\f13c"; }
 
-/* line 866, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 866, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-anchor:before {
   content: "\f13d"; }
 
-/* line 869, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 869, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-unlock-alt:before {
   content: "\f13e"; }
 
-/* line 872, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 872, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bullseye:before {
   content: "\f140"; }
 
-/* line 875, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 875, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-ellipsis-h:before {
   content: "\f141"; }
 
-/* line 878, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 878, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-ellipsis-v:before {
   content: "\f142"; }
 
-/* line 881, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 881, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-rss-square:before {
   content: "\f143"; }
 
-/* line 884, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 884, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-play-circle:before {
   content: "\f144"; }
 
-/* line 887, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 887, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-ticket:before {
   content: "\f145"; }
 
-/* line 890, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 890, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-minus-square:before {
   content: "\f146"; }
 
-/* line 893, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 893, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-minus-square-o:before {
   content: "\f147"; }
 
-/* line 896, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 896, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-level-up:before {
   content: "\f148"; }
 
-/* line 899, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 899, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-level-down:before {
   content: "\f149"; }
 
-/* line 902, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 902, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-check-square:before {
   content: "\f14a"; }
 
-/* line 905, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 905, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-pencil-square:before {
   content: "\f14b"; }
 
-/* line 908, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 908, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-external-link-square:before {
   content: "\f14c"; }
 
-/* line 911, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 911, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-share-square:before {
   content: "\f14d"; }
 
-/* line 914, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 914, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-compass:before {
   content: "\f14e"; }
 
-/* line 917, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 917, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-toggle-down:before {
   content: "\f150"; }
 
-/* line 920, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 920, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-toggle-up:before {
   content: "\f151"; }
 
-/* line 923, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 923, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-toggle-right:before {
   content: "\f152"; }
 
-/* line 926, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 926, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-euro:before {
   content: "\f153"; }
 
-/* line 929, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 929, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-gbp:before {
   content: "\f154"; }
 
-/* line 932, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 932, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-dollar:before {
   content: "\f155"; }
 
-/* line 935, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 935, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-rupee:before {
   content: "\f156"; }
 
-/* line 938, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 938, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-cny:before {
   content: "\f157"; }
 
-/* line 941, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 941, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-ruble:before {
   content: "\f158"; }
 
-/* line 944, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 944, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-won:before {
   content: "\f159"; }
 
-/* line 947, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 947, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bitcoin:before {
   content: "\f15a"; }
 
-/* line 950, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 950, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-file:before {
   content: "\f15b"; }
 
-/* line 953, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 953, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-file-text:before {
   content: "\f15c"; }
 
-/* line 956, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 956, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-sort-alpha-asc:before {
   content: "\f15d"; }
 
-/* line 959, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 959, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-sort-alpha-desc:before {
   content: "\f15e"; }
 
-/* line 962, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 962, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-sort-amount-asc:before {
   content: "\f160"; }
 
-/* line 965, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 965, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-sort-amount-desc:before {
   content: "\f161"; }
 
-/* line 968, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 968, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-sort-numeric-asc:before {
   content: "\f162"; }
 
-/* line 971, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 971, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-sort-numeric-desc:before {
   content: "\f163"; }
 
-/* line 974, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 974, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-thumbs-up:before {
   content: "\f164"; }
 
-/* line 977, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 977, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-thumbs-down:before {
   content: "\f165"; }
 
-/* line 980, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 980, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-youtube:before {
   content: "\f167"; }
 
-/* line 983, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 983, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-xing:before {
   content: "\f168"; }
 
-/* line 986, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 986, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-xing-square:before {
   content: "\f169"; }
 
-/* line 989, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 989, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-youtube-play:before {
   content: "\f16a"; }
 
-/* line 992, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 992, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-dropbox:before {
   content: "\f16b"; }
 
-/* line 995, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 995, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-stack-overflow:before {
   content: "\f16c"; }
 
-/* line 998, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 998, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-instagram:before {
   content: "\f16d"; }
 
-/* line 1001, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1001, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-flickr:before {
   content: "\f16e"; }
 
-/* line 1004, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1004, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-adn:before {
   content: "\f170"; }
 
-/* line 1007, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1007, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bitbucket:before {
   content: "\f171"; }
 
-/* line 1010, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1010, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bitbucket-square:before {
   content: "\f172"; }
 
-/* line 1013, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1013, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-tumblr:before {
   content: "\f173"; }
 
-/* line 1016, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1016, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-tumblr-square:before {
   content: "\f174"; }
 
-/* line 1019, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1019, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-long-arrow-down:before {
   content: "\f175"; }
 
-/* line 1022, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1022, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-long-arrow-up:before {
   content: "\f176"; }
 
-/* line 1025, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1025, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-long-arrow-left:before {
   content: "\f177"; }
 
-/* line 1028, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1028, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-long-arrow-right:before {
   content: "\f178"; }
 
-/* line 1031, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1031, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-apple:before {
   content: "\f179"; }
 
-/* line 1034, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1034, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-windows:before {
   content: "\f17a"; }
 
-/* line 1037, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1037, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-android:before {
   content: "\f17b"; }
 
-/* line 1040, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1040, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-linux:before {
   content: "\f17c"; }
 
-/* line 1043, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1043, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-dribbble:before {
   content: "\f17d"; }
 
-/* line 1046, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1046, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-skype:before {
   content: "\f17e"; }
 
-/* line 1049, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1049, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-foursquare:before {
   content: "\f180"; }
 
-/* line 1052, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1052, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-trello:before {
   content: "\f181"; }
 
-/* line 1055, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1055, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-female:before {
   content: "\f182"; }
 
-/* line 1058, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1058, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-male:before {
   content: "\f183"; }
 
-/* line 1061, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1061, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-gittip:before {
   content: "\f184"; }
 
-/* line 1064, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1064, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-sun-o:before {
   content: "\f185"; }
 
-/* line 1067, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1067, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-moon-o:before {
   content: "\f186"; }
 
-/* line 1070, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1070, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-archive:before {
   content: "\f187"; }
 
-/* line 1073, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1073, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-bug:before {
   content: "\f188"; }
 
-/* line 1076, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1076, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-vk:before {
   content: "\f189"; }
 
-/* line 1079, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1079, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-weibo:before {
   content: "\f18a"; }
 
-/* line 1082, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1082, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-renren:before {
   content: "\f18b"; }
 
-/* line 1085, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1085, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrow-circle-o-right:before {
   content: "\f18e"; }
 
-/* line 1088, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1088, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-arrow-circle-o-left:before {
   content: "\f190"; }
 
-/* line 1091, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1091, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-toggle-left:before {
   content: "\f191"; }
 
-/* line 1094, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1094, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-dot-circle-o:before {
   content: "\f192"; }
 
-/* line 1097, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1097, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-vimeo-square:before {
   content: "\f194"; }
 
-/* line 1100, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/icons.sass */
+/* line 1100, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/icons.sass */
 .icon-plus-square-o:before {
   content: "\f196"; }

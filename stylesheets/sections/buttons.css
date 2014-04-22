@@ -1,4 +1,4 @@
-/* line 1, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/buttons.sass */
+/* line 1, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/buttons.sass */
 .button, a.button {
   color: white;
   font-size: 16px;
@@ -12,7 +12,7 @@
   -webkit-transition: All 0.5s ease;
   -o-transition: All 0.5s ease; }
 
-/* line 14, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/buttons.sass */
+/* line 14, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/buttons.sass */
 .button:hover {
   background: #cb6228;
   color: white; }

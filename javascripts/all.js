@@ -1543,7 +1543,7 @@ b.bind("mouseup.slimscroll",function(a){y=!1;p();b.unbind(".slimscroll")});retur
 $(document).ready(function() {
   $('#fullpage').fullpage({
     menu: '#menu',
-    anchors: ['page-about', 'page-video', 'page-trainings', 'page-coaches', 'page-clients', 'page-history', 'page-contacts'],
+    anchors: ['about', 'video', 'trainings', 'coaches', 'clients', 'history', 'contacts'],
     loopHorizontal: false,
     onLeave: function(index, direction){
       if (index == 5) {

@@ -1,10 +1,10 @@
-/* line 1, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+/* line 1, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
 .coaches-inner {
   width: 100%;
   height: 100%;
   position: relative;
   background: black; }
-  /* line 6, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+  /* line 6, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
   .coaches-inner .coach {
     background-position: top center;
     background-repeat: no-repeat;
@@ -19,30 +19,30 @@
     z-index: 1;
     cursor: pointer;
     overflow: hidden; }
-    /* line 20, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+    /* line 20, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
     .coaches-inner .coach .inner {
       text-align: center;
       width: 100%;
       height: 100%;
       position: relative; }
-      /* line 25, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+      /* line 25, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
       .coaches-inner .coach .inner .title {
         font-family: "Minion";
         width: 100%;
         position: absolute;
         bottom: 40px;
         z-index: 5; }
-        /* line 31, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+        /* line 31, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
         .coaches-inner .coach .inner .title .name, .coaches-inner .coach .inner .title .surname, .coaches-inner .coach .inner .title .status {
           display: block;
           margin: 0 auto; }
-        /* line 34, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+        /* line 34, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
         .coaches-inner .coach .inner .title .name {
           color: white;
           font-size: 48px;
           text-transform: uppercase;
           line-height: 1em; }
-        /* line 39, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+        /* line 39, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
         .coaches-inner .coach .inner .title .surname {
           color: #b22b25;
           font-size: 36px;
@@ -50,20 +50,20 @@
           font-style: italic;
           line-height: 1em;
           margin: 10px auto; }
-    /* line 47, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+    /* line 47, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
     .coaches-inner .coach.active .inner .title .surname, .coaches-inner .coach.active .inner .title .name {
       text-shadow: 0 0 2px black;
       -webkit-text-shadow: 0 0 2px black;
       -moz-text-shadow: 0 0 2px black; }
-    /* line 51, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+    /* line 51, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
     .coaches-inner .coach.passive .inner .title .surname {
       color: #666666; }
-    /* line 54, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+    /* line 54, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
     .coaches-inner .coach .inner .title .status {
       color: white;
       font-size: 36px;
       line-height: 1em; }
-    /* line 58, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+    /* line 58, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
     .coaches-inner .coach .inner .title .info {
       width: 280px;
       margin: 30px auto 0;
@@ -78,23 +78,23 @@
       -o-transition: All 0.3s ease;
       opacity: 0;
       margin-bottom: -245px; }
-    /* line 72, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+    /* line 72, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
     .coaches-inner .coach.active .inner .title .info {
       opacity: 1;
       margin-bottom: 0; }
-    /* line 75, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+    /* line 75, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
     .coaches-inner .coach:hover {
       z-index: 5; }
-      /* line 77, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+      /* line 77, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
       .coaches-inner .coach:hover .inner:after {
         opacity: 0; }
-  /* line 79, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+  /* line 79, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
   .coaches-inner #coach-matthew {
     left: 33.3333%; }
-  /* line 81, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+  /* line 81, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
   .coaches-inner #coach-dima {
     right: 0; }
-  /* line 83, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+  /* line 83, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
   .coaches-inner .coach .inner:after {
     content: "";
     width: 100%;
@@ -109,15 +109,15 @@
     -webkit-transition: All 0.5s ease;
     -o-transition: All 0.5s ease; }
 
-/* line 97, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+/* line 97, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
 #coach-alena {
   background-image: url("/images/coaches/alena.jpg");
   background-position: top left; }
 
-/* line 101, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+/* line 101, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
 #coach-matthew {
   background-image: url("/images/coaches/matthew.jpg"); }
 
-/* line 104, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/coaches.sass */
+/* line 104, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/sections/coaches.sass */
 #coach-dima {
   background-image: url("/images/coaches/dima.jpg"); }

@@ -6,73 +6,73 @@
   font-weight: normal;
   font-style: normal; }
 
-/* line 9, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 9, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 html {
   font-size: 1em; }
 
-/* line 12, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 12, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 body {
   font-family: "Minion", Verdana, Geneva, sans-serif;
   font-size: 18px;
   line-height: 1.321em;
   color: #555555; }
 
-/* line 18, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 18, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 h1, h2, h3, h4, h5, h6 {
   margin: 0; }
 
-/* line 21, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 21, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 h1 {
   font-size: 50px;
   line-height: 1.13em;
   color: #484848; }
 
-/* line 26, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 26, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 h2 {
   font-size: 35px;
   line-height: 1em;
   color: #484848; }
 
-/* line 31, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 31, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 h3 {
   font-size: 1.5rem; }
 
-/* line 34, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 34, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 h4 {
   font-size: 1.125rem;
   line-height: 2rem; }
 
-/* line 38, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 38, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 h5 {
   font-size: 1rem;
   line-height: 1rem; }
 
-/* line 42, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 42, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 h6 {
   font-size: 0.8125rem;
   text-transform: uppercase;
   line-height: 1rem; }
 
-/* line 47, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 47, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 p {
   margin: 0 0 1rem 0; }
 
-/* line 50, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 50, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 strong {
   font-weight: 700; }
 
-/* line 53, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 53, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 small {
   font-size: 0.75rem; }
 
-/* line 56, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 56, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 a {
   color: #e87e2a; }
-  /* line 58, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+  /* line 58, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
   a:hover {
     color: #cb6228; }
 
-/* line 61, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/components/typography.sass */
+/* line 61, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/components/typography.sass */
 ul, ol {
   margin-left: 1.5rem;
   padding-left: 0; }

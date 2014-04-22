@@ -1,95 +1,95 @@
-/* line 5, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 5, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .pts, .pvs, .pas {
   padding-top: 10px; }
 
-/* line 8, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 8, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .ptm, .pvm, .pam {
   padding-top: 20px; }
 
-/* line 11, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 11, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .ptl, .pvl, .pal {
   padding-top: 30px; }
 
-/* line 14, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 14, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .prs, .phs, .pas {
   padding-right: 10px; }
 
-/* line 17, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 17, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .prm, .phm, .pam {
   padding-right: 20px; }
 
-/* line 20, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 20, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .prl, .phl, .pal {
   padding-right: 30px; }
 
-/* line 23, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 23, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .pbs, .pvs, .pas {
   padding-bottom: 10px; }
 
-/* line 26, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 26, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .pbm, .pvm, .pam {
   padding-bottom: 20px; }
 
-/* line 29, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 29, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .pbl, .pvl, .pal {
   padding-bottom: 30px; }
 
-/* line 32, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 32, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .pls, .phs, .pas {
   padding-left: 10px; }
 
-/* line 35, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 35, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .plm, .phm, .pam {
   padding-left: 20px; }
 
-/* line 38, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 38, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .pll, .phl, .pal {
   padding-left: 30px; }
 
-/* line 41, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 41, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .mts, .mvs, .mas {
   margin-top: 10px; }
 
-/* line 44, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 44, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .mtm, .mvm, .mam {
   margin-top: 20px; }
 
-/* line 47, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 47, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .mtl, .mvl, .mal {
   margin-top: 30px; }
 
-/* line 50, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 50, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .mrs, .mhs, .mas {
   margin-right: 10px; }
 
-/* line 53, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 53, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .mrm, .mhm, .mam {
   margin-right: 20px; }
 
-/* line 56, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 56, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .mrl, .mhl, .mal {
   margin-right: 30px; }
 
-/* line 59, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 59, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .mbs, .mvs, .mas {
   margin-bottom: 10px; }
 
-/* line 62, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 62, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .mbm, .mvm, .mam {
   margin-bottom: 20px; }
 
-/* line 65, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 65, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .mbl, .mvl, .mal {
   margin-bottom: 30px; }
 
-/* line 68, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 68, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .mls, .mhs, .mas {
   margin-left: 10px; }
 
-/* line 71, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 71, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .mlm, .mhm, .mam {
   margin-left: 20px; }
 
-/* line 74, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/spaces.sass */
+/* line 74, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/base/spaces.sass */
 .mll, .mhl, .mal {
   margin-left: 30px; }

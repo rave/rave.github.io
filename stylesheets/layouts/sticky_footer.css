@@ -1,14 +1,14 @@
-/* line 2, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/layouts/sticky_footer.sass */
+/* line 2, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/layouts/sticky_footer.sass */
 html, body {
   height: 100%; }
 
-/* line 5, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/layouts/sticky_footer.sass */
+/* line 5, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/layouts/sticky_footer.sass */
 .wrapper {
   min-height: 100%;
   height: auto !important;
   height: 100%;
   margin: 0 auto-50px; }
 
-/* line 11, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/layouts/sticky_footer.sass */
+/* line 11, /Users/rave/work/teamcircles/teamcircles-source/source/stylesheets/layouts/sticky_footer.sass */
 .footer {
   height: 50px; }
