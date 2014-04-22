@@ -1,0 +1,99 @@
+/* line 4, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.row {
+  *zoom: 1; }
+  /* line 6, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+  .row:after {
+    content: ".";
+    display: block;
+    height: 0;
+    line-height: 0;
+    clear: both;
+    visibility: hidden; }
+
+/* line 14, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.last-col {
+  display: table-cell;
+  float: none;
+  width: auto;
+  _margin-right: -3px;
+  _left: -3px;
+  _position: relative;
+  *display: block;
+  *zoom: 1; }
+  /* line 23, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+  .last-col:after {
+    content: " . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .";
+    clear: both;
+    display: block;
+    height: 0 !important;
+    line-height: 0;
+    visibility: hidden; }
+
+/* line 31, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.col1of2,
+.col1of3, .col2of3,
+.col1of4, .col2of4, .col3of4,
+.col1of5, .col2of5, .col3of5, .col4of5,
+.col1of6, .col2of6, .col3of6, .col4of6, .col5of6 {
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0 0; }
+
+/* line 42, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.col1of2, .col2of4, .col3of6 {
+  width: 50%; }
+
+/* line 45, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.col1of3, .col2of6 {
+  width: 33.33333%; }
+
+/* line 48, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.col2of3, .col4of6 {
+  width: 66.66666%; }
+
+/* line 51, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.col1of4 {
+  width: 25%; }
+
+/* line 54, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.col3of4 {
+  width: 75%; }
+
+/* line 57, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.col1of5 {
+  width: 20%; }
+
+/* line 60, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.col2of5 {
+  width: 40%; }
+
+/* line 63, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.col3of5 {
+  width: 60%; }
+
+/* line 66, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.col4of5 {
+  width: 80%; }
+
+/* line 69, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.col1of6 {
+  width: 16.66666%; }
+
+/* line 72, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+.col5of6 {
+  width: 83.33333%; }
+
+@media (max-width: 768px) {
+  /* line 77, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/grid.sass */
+  .row.responsive .col1of2,
+  .row.responsive .col1of3, .row.responsive .col2of3,
+  .row.responsive .col1of4, .row.responsive .col2of4, .row.responsive .col3of4,
+  .row.responsive .col1of5, .row.responsive .col2of5, .row.responsive .col3of5, .row.responsive .col4of5,
+  .row.responsive .col1of6, .row.responsive .col2of6, .row.responsive .col3of6, .row.responsive .col4of6, .row.responsive .col5of6 {
+    width: 100%;
+    float: none;
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 20px; } }

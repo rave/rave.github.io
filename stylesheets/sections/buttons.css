@@ -1,0 +1,18 @@
+/* line 1, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/buttons.sass */
+.button, a.button {
+  color: white;
+  font-size: 16px;
+  text-decoration: none;
+  display: inline-block;
+  background: #e87e2a;
+  border-radius: 10px;
+  padding: 0 17px;
+  transition: All 0.5s ease;
+  -moz-transition: All 0.5s ease;
+  -webkit-transition: All 0.5s ease;
+  -o-transition: All 0.5s ease; }
+
+/* line 14, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/buttons.sass */
+.button:hover {
+  background: #cb6228;
+  color: white; }

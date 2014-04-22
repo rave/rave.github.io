@@ -1,0 +1,203 @@
+/* line 1, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block; }
+
+/* line 15, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+audio,
+canvas,
+video {
+  display: inline-block; }
+
+/* line 20, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+audio:not([controls]) {
+  display: none;
+  height: 0; }
+
+/* line 25, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+[hidden],
+template {
+  display: none; }
+
+/* line 29, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+html {
+  font-family: sans-serif;
+  font-size: 1em;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
+
+/* line 35, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+body {
+  margin: 0; }
+
+/* line 38, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+a {
+  background: transparent; }
+
+/* line 41, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+a:focus {
+  outline: thin dotted; }
+
+/* line 44, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+a:active,
+a:hover {
+  outline: 0; }
+
+/* line 48, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0; }
+
+/* line 52, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+abbr[title] {
+  border-bottom: 1px dotted; }
+
+/* line 55, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+b,
+strong {
+  font-weight: bold; }
+
+/* line 59, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+dfn {
+  font-style: italic; }
+
+/* line 62, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0; }
+
+/* line 67, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+mark {
+  background: yellow;
+  color: black; }
+
+/* line 71, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  font-size: 1em; }
+
+/* line 78, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+pre {
+  white-space: pre-wrap; }
+
+/* line 81, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019"; }
+
+/* line 84, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+small {
+  font-size: 80%; }
+
+/* line 87, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+/* line 94, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+sup {
+  top: -0.5em; }
+
+/* line 97, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+sub {
+  bottom: -0.25em; }
+
+/* line 100, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+img {
+  border: 0; }
+
+/* line 103, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+svg:not(:root) {
+  overflow: hidden; }
+
+/* line 106, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+figure {
+  margin: 0; }
+
+/* line 109, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+fieldset {
+  border: 1px solid silver;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em; }
+
+/* line 114, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+legend {
+  border: 0;
+  padding: 0; }
+
+/* line 118, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+button,
+input,
+select option,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0; }
+
+/* line 126, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+button,
+select {
+  text-transform: none; }
+
+/* line 130, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer; }
+
+/* line 137, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+button[disabled],
+html input[disabled] {
+  cursor: default; }
+
+/* line 141, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0; }
+
+/* line 146, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box; }
+
+/* line 152, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+/* line 156, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0; }
+
+/* line 161, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+textarea {
+  overflow: auto;
+  vertical-align: top; }
+
+/* line 165, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/base/normalize.sass */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }

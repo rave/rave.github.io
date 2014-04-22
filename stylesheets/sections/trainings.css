@@ -1,0 +1,80 @@
+/* line 1, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+.trainings-left {
+  width: 40%;
+  float: left; }
+
+/* line 5, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+.trainings-right {
+  width: 60%;
+  float: right; }
+
+/* line 9, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+.training-link {
+  display: block;
+  text-align: center;
+  text-decoration: none; }
+  /* line 13, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+  .training-link .inner {
+    position: relative; }
+    /* line 15, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+    .training-link .inner img {
+      display: block;
+      margin: 0 auto; }
+    /* line 18, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+    .training-link .inner:after {
+      content: "";
+      display: block;
+      width: 135px;
+      height: 135px;
+      background: rgba(0, 0, 0, 0) url("../images/trainings/arrows.png") center center no-repeat;
+      border-radius: 50%;
+      position: absolute;
+      top: 0;
+      left: 50%;
+      margin-left: -67.5px;
+      opacity: 0;
+      transition: All 0.5s ease;
+      -moz-transition: All 0.5s ease;
+      -webkit-transition: All 0.5s ease;
+      -o-transition: All 0.5s ease; }
+  /* line 35, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+  .training-link:hover .training-title {
+    color: #e87e2a; }
+  /* line 37, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+  .training-link:hover .inner:after {
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.4); }
+  /* line 41, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+  .training-link .training-title {
+    text-align: center;
+    margin: 10px 0 30px;
+    color: #484848;
+    text-decoration: none;
+    transition: All 0.5s ease;
+    -moz-transition: All 0.5s ease;
+    -webkit-transition: All 0.5s ease;
+    -o-transition: All 0.5s ease; }
+
+/* line 51, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+.trainings-1 {
+  background-image: url("/images/bg/training-1.jpg"); }
+
+/* line 54, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+.trainings-2 {
+  background-image: url("/images/bg/training-2.jpg"); }
+
+/* line 57, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+.trainings-3 {
+  background-image: url("/images/bg/training-1.jpg"); }
+
+/* line 60, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+.trainings-4 {
+  background-image: url("/images/bg/training-4.jpg"); }
+
+/* line 63, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+.trainings-kids {
+  background-image: url("/images/bg/training-5.jpg"); }
+
+/* line 66, /Users/rave/work/teamcircles/teamcircles-git/source/stylesheets/sections/trainings.sass */
+.trainings-5 {
+  background-image: url("/images/bg/training-6.jpg"); }
